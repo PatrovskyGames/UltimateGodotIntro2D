@@ -163,6 +163,7 @@ libraries = {
 stream = ExtResource("5_jssyd")
 
 [node name="ExplosionSound" type="AudioStreamPlayer2D" parent="Sounds"]
+stream = ExtResource("5_8gloc")
 volume_db = 20.0
 metadata/_edit_lock_ = true
 
